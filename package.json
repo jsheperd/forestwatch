@@ -1,0 +1,30 @@
+{
+  "name": "forestwatch",
+  "version": "1.0.0",
+  "description": "MODIS timeline browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsheperd/forestwatch.git"
+  },
+  "keywords": [
+    "MODIS",
+    "WSDL",
+    "Forest",
+    "NDVI"
+  ],
+  "author": "juhasz.janos.flutemaker@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsheperd/forestwatch/issues"
+  },
+  "homepage": "https://github.com/jsheperd/forestwatch#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "nvd3": "^1.8.5"
+  }
+}
