@@ -25,6 +25,7 @@
   "dependencies": {
     "angular": "^1.6.1",
     "bootstrap": "^3.3.7",
+    "ngmap": "^1.17.8",
     "nvd3": "^1.8.5"
   }
 }
