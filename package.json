@@ -22,10 +22,11 @@
     "url": "https://github.com/jsheperd/forestwatch/issues"
   },
   "homepage": "https://github.com/jsheperd/forestwatch#readme",
-  "dependencies": {
+  "devDependencies": {
     "angular": "^1.6.1",
+    "angular-soap": "^2.2.7",
     "bootstrap": "^3.3.7",
-    "ngmap": "^1.17.8",
+    "ngmap": "^1.17.95",
     "nvd3": "^1.8.5"
   }
 }
