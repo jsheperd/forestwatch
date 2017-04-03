@@ -1,4 +1,4 @@
-Source of true: https://modis.ornl.gov/data/modis_webservice.html
+Source of truth: https://modis.ornl.gov/data/modis_webservice.html
 
 #WSDL
 
